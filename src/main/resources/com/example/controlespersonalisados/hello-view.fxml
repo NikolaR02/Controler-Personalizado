@@ -9,5 +9,5 @@
     <padding>
         <Insets bottom="20.0" left="20.0" right="20.0" top="20.0"/>
     </padding>
-    <CheckBox mnemonicParsing="false" text="CheckBox"/>
+    <CheckBox mnemonicParsing="false" text="CheckBox" stylesheets="@../../../style/check-box.css"/>
 </VBox>
